@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "wood-log@1.0.3",
+      "D:\\weixin-manage1\\server\\content"
+    ]
+  ],
+  "_from": "wood-log@1.0.3",
+  "_id": "wood-log@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-yjAKOwMp1YGVzQyWA3+69WQVDjjCt/LjxNQCMjejQygzanZ0GC09nsPduHgRsCGo1AIm7kchGnPOky1R9n0ivA==",
+  "_location": "/wood-log",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "wood-log@1.0.3",
+    "name": "wood-log",
+    "escapedName": "wood-log",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://10.0.1.26:4873/wood-log/-/wood-log-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "D:\\weixin-manage1\\server\\content",
+  "author": {
+    "name": "blucehuang"
+  },
+  "dependencies": {
+    "log4js": "^3.0.6"
+  },
+  "description": "base log4js log",
+  "keywords": [
+    "log"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "wood-log",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
